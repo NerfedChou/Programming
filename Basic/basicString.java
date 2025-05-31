@@ -18,6 +18,12 @@ public class basicString {
         String example = "Hello";
         System.out.println(example + " World 3");
 
+        //Lastly you can do anything with strings that you can do with any other object
+        String ex = "Hello ";
+        String ex2 = "World 4";
+        // Concatenation using the + operator
+        System.out.println(ex + ex2);
+
     }
 
 }
