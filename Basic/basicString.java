@@ -11,7 +11,7 @@ public class basicString {
         // Print the string
         System.out.println(s);
 
-        //You can also create a string directly on System.out.println
+        //You can also create a string directly on System.out.println.
         System.out.println("Hello World 2"); //
 
         //Combining strings
